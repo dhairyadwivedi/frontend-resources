@@ -8,6 +8,13 @@
 - [Animate.css](https://animate.style/): Ready to use CSS animations
 - [Neumorphism.io](https://neumorphism.io/#55b9f3)
 
+## Color Selection Tools
+
+- [Color Hunt](https://colorhunt.co/)
+- [Coolors](https://coolors.co/)
+- [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+- [Muzli Colors](https://colors.muz.li/)
+
 ## UI Gradients
 
 - [UI Gradients](https://uigradients.com/)
