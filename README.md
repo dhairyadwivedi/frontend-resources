@@ -22,7 +22,9 @@
 - [CoolHue](https://webkul.github.io/coolhue/): Also has plugins for Sketch and Figma
 - [Eggradients](https://www.eggradients.com/)
 
-## Background Patterns
+## SVG Pattern Generator
 
 - [The Pattern Library](http://thepatternlibrary.com/)
 - [SVG Backgrounds](https://www.svgbackgrounds.com/)
+- [SVG Wave Generator](https://www.svgwave.in/)
+- [Get Waves](https://getwaves.io/)
